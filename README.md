@@ -1,4 +1,4 @@
-# Gamestop and Tesla Stock and Revenue Dashboard
+# Gamestop and Tesla Stock and Revenue Dashboard Project
 
 Welcome to my Python project for the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science). This project demonstrates my skills in Python, data extraction, web scraping, data visualization, and creating interactive dashboards. The objective is to analyze and visualize stock and revenue data for Gamestop (GME) and Tesla.
 
